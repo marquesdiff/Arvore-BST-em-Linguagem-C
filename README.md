@@ -17,7 +17,7 @@ O código `bst.c` oferece as seguintes funcionalidades principais para manipula�
 
 ### Funções Disponíveis
 
-A tabela a seguir detalha cada função, seus parâmetros, o que ela realiza e o formato de saída esperado:
+#### A tabela a seguir detalha cada função, seus parâmetros, o que ela realiza e o formato de saída esperado:
      __________________________________________________________________________________________________
     | opção |  função   |  detalhes                                                                     |
     |-------------------------------------------------------------------------------------------------- |
